@@ -1,6 +1,6 @@
 <div align="center">
-    <img width="250" alt="Screenshot 2024-06-09 at 1 12 30 PM" src="https://github.com/Bharathkdev/custom_keyboard/assets/46343966/0e087639-651b-4b71-be76-a3d6d202e752">
-    <img width="242" alt="Screenshot 2024-06-09 at 1 13 48 PM" src="https://github.com/Bharathkdev/custom_keyboard/assets/46343966/2978cee4-3715-4d03-9899-45bcdb060e06">
+    <img width="250" alt="Screenshot 2024-06-09 at 1 12 30 PM" src="https://github.com/Bharathkdev/custom_keyboard/assets/46343966/31c84818-5a28-41bb-883a-2fa46c72accc">
+    <img width="250" alt="Screenshot 2024-06-09 at 1 13 48 PM" src="https://github.com/Bharathkdev/custom_keyboard/assets/46343966/e9b79193-2ecd-4b54-aaa5-34bf171e1f8b">
 </div>
 
 <h3 align="center">React Native Custom Keyboard App</h3>
