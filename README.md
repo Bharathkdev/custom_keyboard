@@ -1,4 +1,9 @@
-# README - React Native Custom Keyboard
+<div align="center">
+    <img width="200" alt="Screenshot 2024-06-09 at 1 12 30 PM" src="https://github.com/Bharathkdev/custom_keyboard/assets/46343966/0e087639-651b-4b71-be76-a3d6d202e752">
+    <img width="195" alt="Screenshot 2024-06-09 at 1 13 48 PM" src="https://github.com/Bharathkdev/custom_keyboard/assets/46343966/2978cee4-3715-4d03-9899-45bcdb060e06">
+</div>
+
+<h3 align="center">React Native Custom Keyboard App</h3>
 
 ## Overview
 
