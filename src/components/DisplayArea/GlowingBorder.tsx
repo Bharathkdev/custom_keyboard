@@ -10,7 +10,11 @@ type GlowingBorderPropTypes = {
   height: number;
 } & ChildrenType;
 
-const GlowingBorder: React.FC<GlowingBorderPropTypes> = props => {
+const GlowingBorder: React.FC<GlowingBorderPropTypes> = ({
+  width,
+  height,
+  children,
+}) => {
   const glowAnimation = useRef<Animated.Value>(new Animated.Value(0)).current;
 
   useEffect(() => {
@@ -40,11 +44,11 @@ const GlowingBorder: React.FC<GlowingBorderPropTypes> = props => {
           styles.animatedBorderBoxGlow,
           glowStyle,
           {
-            width: props.width,
-            height: props.height - 20,
+            width: width,
+            height: height - 20,
           },
         ]}>
-        {props.children}
+        {children}
       </Animated.View>
     </View>
   );
@@ -65,4 +69,4 @@ const styles = ScaledSheet.create({
   },
 });
 
-export default GlowingBorder;
+export default React.memo(GlowingBorder);
